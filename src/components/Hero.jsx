@@ -38,7 +38,11 @@ const container = (delay) => ({
             </div>
             <div className="w-full lg:w-1/2 lg:p-8">
               <div className="flex justify-center">
-                <img src={profilePic} alt="Alexander Rodriguez" />
+                <motion.img
+                initial={{x: 100, opacity: 0}}
+                animate={{x: 0, opacity: 1}}
+                transition={{dutarion: 1, delay: 1.2}}                
+                 src={profilePic} alt="Alexander Rodriguez" />
               </div>
             </div>
         </div>
