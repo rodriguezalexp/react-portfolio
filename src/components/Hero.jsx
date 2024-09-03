@@ -1,6 +1,7 @@
  import {HERO_CONTENT} from "../constants"
  import profilePic from "../assets/AlexanderRodriguez.jpeg"
  import { motion } from "framer-motion"
+
  
 const container = (delay) => ({
   hidden: {x: -100,  opacity: 0},
@@ -12,6 +13,7 @@ const container = (delay) => ({
 })
 
  const Hero = () => {
+  //const { t } = useTranslation();
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
         <div className="flex flex-wrap">
