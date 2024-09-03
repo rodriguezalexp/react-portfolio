@@ -11,7 +11,9 @@ export const ABOUT_TEXT = `Desde que tengo memoria, he estado interesado en desc
 
 Mi lenguaje principal es Python, pero cuento con gran adaptabilidad para nuevos aprendizajes de lenguajes o frameworks. Algunas de las tecnologías que he utilizado son Python, NodeJs, React, Django, MongoDb y PostgreSql.
 
-Aunque tengo bases sólidas y he realizado varios proyectos funcionales y colaborativos, considero que tengo mucho que aprender. Por eso, si usted que está leyendo esto es un reclutador y está buscando a alguien que tenga conocimientos y que, además, quiera aprender, por favor no dude en tenerme en consideración.`;
+`;
+
+export const ABOUT_TWO = `Aunque tengo bases sólidas y he realizado varios proyectos funcionales y colaborativos, considero que tengo mucho que aprender. Por eso, si usted que está leyendo esto es un reclutador y está buscando a alguien que tenga conocimientos y que, además, quiera aprender, por favor no dude en tenerme en consideración.`;
 
 /* 
 Desde que tengo memoria he estado interesado en descubrir como funcionan las cosas, esa misma curiosidad me llevo a adentrarme en el mundo del software y desde entonces no he parado de estudiar las diferentes tecnologias que se pueden utilizar para brindar soluciones al que lo necesite.
