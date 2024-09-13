@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Soy un desarrollador full-stack versátil, dedicado y con gran interés en crear aplicaciones web amigables con el usuario. Cuento con dos años de experiencia en el mundo del desarrollo. He trabajado con una gran cantidad de tecnologías, entre las cuales destacan Python, NodeJs, React, Django, MongoDb y PostgreSql. Mi meta es aprovechar mis conocimientos para crear experiencias amigables y útiles que puedan servir a las personas o empresas.`
+export const HERO_CONTENT = `Soy un desarrollador Python, dedicado y con gran interés en crear aplicaciones web amigables con el usuario. Cuento con dos años de experiencia en el mundo del desarrollo. He trabajado con una gran cantidad de tecnologías, entre las cuales destacan Python, NodeJs, React, Django, MongoDb y PostgreSql. Mi meta es aprovechar mis conocimientos para crear experiencias amigables y útiles que puedan servir a las personas o empresas.`
 
 /* `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`; */
 
